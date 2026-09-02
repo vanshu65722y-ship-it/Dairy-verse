@@ -9,8 +9,6 @@
 > [!IMPORTANT]
 > - **Port 2228 Requirement:** Always run the development server on port **`2228`** (`http://localhost:2228`) to ensure correct backend connection and CORS authorization.
 > - **Backend / CORS Access:** If you cannot access the backend, it means the administrator of Diary Verse has disabled CORS. Without admin approval or proper CORS configuration, backend connectivity may be restricted.
-> - **Enable CORS for Testing:** If you need CORS enabled to verify backend integration, please reach out to us:
->   - 📧 **Email:** [DiaryVerse@snapcourse.in](mailto:DiaryVerse@snapcourse.in)
 
 ---
 
@@ -94,4 +92,3 @@ npm run preview
 We aspire to make **Diary Verse** popular worldwide to provide a peaceful and private mental space for everyone. We warmly welcome your support and contributions!
 
 - If you would like to contribute improvements or features, feel free to fork the repository, make your changes, and submit a pull request.
-- For questions, feedback, or backend permissions, contact us at **[DiaryVerse@snapcourse.in](mailto:DiaryVerse@snapcourse.in)**.
